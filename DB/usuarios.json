@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "668b24619b1fe5569b7ad4a7"
+  },
+  "email": "juan@example.com",
+  "nombre": "francia",
+  "password": "$2b$12$S2LUjzsammuWVpqO6hOydeY/Sil9UUDyq0mlv.6CfDYPyD51K502y",
+  "__v": 0
+}]
